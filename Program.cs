@@ -6,7 +6,7 @@ namespace Aula26_02
     {
         static void Main(string[] args)
         {    
-            Console.ForegroundColor = ConsoleColor .Red;
+            Console.ForegroundColor = ConsoleColor .DarkRed;
             Console.WriteLine("Faz-nos Ouvir Tua Voz");
             Console.WriteLine( );
             Console.ResetColor();
@@ -15,7 +15,7 @@ namespace Aula26_02
             Console.WriteLine("A Tua Igreja, dileta esposa");
             Console.WriteLine("Sente por Ti inefável amor");
             Console.WriteLine( );
-            Console.ForegroundColor = ConsoleColor .Green; 
+            Console.ForegroundColor = ConsoleColor .DarkGreen; 
             Console.WriteLine("Ó caro Salvador, a Tua voz de amor");
             Console.WriteLine("Nos guia para o céu, glorioso lar");
             Console.WriteLine("Pela Palavra vem nos consolar");
